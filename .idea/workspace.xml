@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056fd18c-0c09-4b95-ad3e-d1d6c2163cec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Get Hub/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Get Hub/Index.html" afterPath="$PROJECT_DIR$/Get Hub/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Arick_Vince_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,12 +27,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Get Hub/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11764706" vertical-offset="0" max-vertical-offset="510">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Get Hub/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19662921" vertical-offset="0" max-vertical-offset="534">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,13 +62,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/Get Hub/script.js" />
         <option value="$PROJECT_DIR$/Get Hub/Index.html" />
+        <option value="$PROJECT_DIR$/Get Hub/js/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="y" value="158" />
+    <option name="x" value="704" />
+    <option name="y" value="143" />
     <option name="width" value="744" />
     <option name="height" value="631" />
   </component>
@@ -65,7 +81,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -106,6 +122,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arick_Vince_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arick_Vince_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Get Hub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -114,6 +148,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Get Hub/js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -169,7 +208,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="158" width="744" height="631" extended-state="0" />
+    <frame x="704" y="143" width="744" height="631" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -213,9 +252,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Get Hub/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11764706" vertical-offset="0" max-vertical-offset="510">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Get Hub/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19662921" vertical-offset="0" max-vertical-offset="534">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
