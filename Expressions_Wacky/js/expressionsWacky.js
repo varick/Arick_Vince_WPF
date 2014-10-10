@@ -16,7 +16,9 @@ console.log (grownup);
 var candy = prompt ("What was the average amount of candy a Trick or Treater took?");
 console.log (candy)
 
-var totalCandy = (lastYearChildren - grownup * candy);
+var totalReturn = (lastYearChildren - grownup);
 
-alert ("You should get " +totalCandy+ "pieces of candy this year.");
+var totalCandy = (candy * totalReturn);
+
+alert ("You should get " +totalCandy+ " pieces of candy this year.");
 
