@@ -12,7 +12,11 @@ var sparkyHuman = prompt ("How many years old is Sparky in human years?");
 console.log (sparkyHuman);
 
 //multiply sparky age times 7, alert how old in dog years
-alert ("Sparky is " + sparkyHuman * 7 + " in dog years.");
+var  sparkyDog = (sparkyHuman * 7);
+console.log (sparkyDog)
+
+//Final answer
+alert ("Sparky is " + sparkyHuman +  " human years, which is " + sparkyDog + " in dog years.");
 
 
 
