@@ -4,6 +4,7 @@ WPF 1410 Section 01
 Expressions_Industry
 10-09-2014
  */
+// This is the Pythagorean Theorem finding the length of the third side of a triangle.
 //Question
 alert ("How many feet is the computer in the back corner of the room to center stage in a straight line?");
 
@@ -23,9 +24,11 @@ console.log (width);
 var sqWidth = (width * width);
 console.log (sqWidth);
 
+//Add the square length to square width
 var total = (sqLength+sqWidth);
 console.log (total);
 
+//Final answer
 var totalSqrt = Math.sqrt(total);
 
 alert ("A straight line from computer to center stage is " +totalSqrt+ " feet");
