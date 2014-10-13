@@ -1,7 +1,7 @@
 /*
  Vince Arick
  WPF 1410 Section 01
- Conditional Logic
+ Relational Expressions
  10-13-2014
  */
 
