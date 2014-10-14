@@ -5,17 +5,28 @@
  10-14-2014
  */
 
-//Username entered by user
-//Password entered by user
-//Correct username
-//Correct password
+//correct name and password
+var correctName = ("Vince")
+var correctPassword = ("123456")
 
-var userName = John Smith
-var userPassword = 123456
+//ask what the user name is and if correct ask for password
+var correctUser  = prompt ("What is your username?");
 
+//Correct name, ask for password and save password
+if (correctName === correctUser){
+    var passWord = prompt ("What is your password?");
+console.log(passWord)
 
+//Wrong user name leave
+}else{
+    alert ("Username does not match our records.");
+}
+console.log(passWord)
 
-//Printout
-//“Welcome, (place their username here)!”  - if the username and password is correct
-//“User not found. Try again.” -if the username does not match
-//“Password does not match our records.”  -if the username matches but the password does not
+//ask for correct password, if don't match leave
+if (passWord === correctPassword){
+    alert("Welcome " + correctName);
+}else{
+    alert("Password does not match our records.");
+}
+
