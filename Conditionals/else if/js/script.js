@@ -1,7 +1,7 @@
 /*
  Vince Arick
  WPF 1410 Section 01
-If and Else
+else if
  10-13-2014
  */
 
