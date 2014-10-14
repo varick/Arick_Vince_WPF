@@ -14,10 +14,19 @@ var seniorDiscount = (55)
 
 //Figure age with price
 var discount = prompt ("How old are you?");
-    if (childDiscount > discount || seniorDiscount < discount){
+    if (childDiscount === discount || seniorDiscount === discount){
     alert ("Ticket price $7");
     }else{
     alert ("Ticket price $12.");
     }
 
 //Figure time with price
+
+var timeDiscount = ("3pm")
+
+var time = prompt ("What time do you want to see the movie?")
+    if (time > timeDiscount){
+    alert ("Ticket price $7");
+    }else{
+    alert ("Ticket price $12.");
+}
