@@ -9,15 +9,15 @@
 //Gauge reading of the gas tank (in%)
 //Car's gas tank capacity (in gallons)
 var gasEfficiency = 20
-var gaugeReading = 30
-var gasTank = 23
+var gaugeReading = 50
+var gasTank = 25
 
 //full tank can go 460 miles
 
 if (gaugeReading >= 40 && gasEfficiency >= 20 && gasTank >= 23){
     console.log("Yes, you can make it without stopping for gas!")
 }else{
-    console.log("You only have X gallons of gas in your tank, better get gas now while you can!")
+    console.log("You only have " +gasTank+ " gallons of gas in your tank, better get gas now while you can!")
 }
 
 
