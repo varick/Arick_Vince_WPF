@@ -1,32 +1,27 @@
 /*
  Vince Arick
  WPF 1410 Section 01
- Check Login
- 10-14-2014
+ Conditional Wacky
+ 10-16-2014
  */
 
-//correct name and password
-var correctName = ("Vince")
-var correctPassword = ("123456")
 
-//ask what the user name is and if correct ask for password
-var correctUser  = prompt ("What is your username?");
 
-//Correct name, ask for password and save password
-if (correctName === correctUser){
-    var passWord = prompt ("What is your password?");
-console.log(passWord)
+//Waiting in line at grocery store
 
-//Wrong user name leave
+/*var cashier = 2
+var selfCheck = 1
+ */
+
+
+//Which would be quicker to leave the store self check out or cashier
+//How many items do I have
+var items = prompt ("How many items do you have?")
+console.log items
+var cashier = prompt ("How many cashiers are there?")
+console.log cashier
+if (items >= 10 && cashier <= 4){
+    alert ("It might be quicker to go self check out.")
 }else{
-    alert ("Username does not match our records.");
+    ("Wait in line shouldn't take to long.")
 }
-console.log(passWord)
-
-//ask for correct password, if don't match leave
-if (passWord === correctPassword){
-    alert("Welcome " + correctName);
-}else{
-    alert("Password does not match our records.");
-}
-
