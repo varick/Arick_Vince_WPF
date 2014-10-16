@@ -11,13 +11,19 @@
 
 
 //Which would be quicker to leave the store self check out or cashier
-alert ("You are at the grocery store, and you aren't sure to go to self checkout or cashier on how many customers are there?")
+alert ("You are at the grocery store, and you aren't sure to go to self checkout or cashier on how many customers are there?");
 //How many items do I have?
-var customers = prompt ("How many people waiting before you in self checkout?")
+var customers = prompt ("How many people waiting before you in self checkout?");
     console.log (customers);
+//validate
+}else if (customers === ""){
+    customers = prompt("Please enter amount don't leave it blank");
 //How many cashiers are there?
-var cashier = prompt ("How many cashiers are there?")
+var cashier = prompt ("How many cashiers are there?");
     console.log (cashier);
+//validate
+}else if (cashier === ""){
+    cashier = prompt("Please enter amount don't leave it blank");
 //If you have less than 10 items and there greater or equal to 1 cashier quicker to go self check out
 //If you have more than 10 items and less or equal to 1
 if (customers <= 5 && cashier >=2){
