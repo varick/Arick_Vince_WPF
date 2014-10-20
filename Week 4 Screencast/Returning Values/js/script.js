@@ -1,14 +1,18 @@
 /*
  Vince Arick
  WPF 1410 Section 01
- Returning Values
+ Functions vs Procedures
  10-20-2014
  */
 
-var total = calcArea(30, 20);
-
-function calcArea(w, h){
-    var area = w * h;
-    return area; //function spitting the info out
+//this is a function
+function calcArea(width, height){
+    var area = width * height;
+    return area;
 }
-console.log(total);
+
+//This is a procedure
+function calcArea(width, height){
+    var area = width * height;
+    console.log(area;)//no return
+}
