@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056fd18c-0c09-4b95-ad3e-d1d6c2163cec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html" afterPath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js" afterPath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js" />
     </list>
     <ignored path="Arick_Vince_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +27,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32051283" vertical-offset="0" max-vertical-offset="702">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.10683761" vertical-offset="0" max-vertical-offset="702">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -38,7 +39,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/index.html">
+        <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
               <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
@@ -103,12 +104,14 @@
         <option value="$PROJECT_DIR$/Conditionals_Worksheet/Last Chance for Gas!/js/script.js" />
         <option value="$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/js/script.js" />
         <option value="$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/index.html" />
+        <option value="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html" />
+        <option value="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="390" />
-    <option name="y" value="287" />
+    <option name="x" value="637" />
+    <option name="y" value="418" />
     <option name="width" value="1134" />
     <option name="height" value="820" />
   </component>
@@ -175,7 +178,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Basic Function Structure" />
+              <option name="myItemId" value="Function Invocation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,7 +196,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Basic Function Structure" />
+              <option name="myItemId" value="Function Invocation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -287,7 +290,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="390" y="287" width="1134" height="820" extended-state="0" />
+    <frame x="637" y="418" width="1134" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -348,22 +351,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Conditional_Industry/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="510">
-          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditional_Personal/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="525">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditional_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="645">
@@ -703,7 +690,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14957266" vertical-offset="0" max-vertical-offset="702">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24336283" vertical-offset="0" max-vertical-offset="678">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
@@ -711,10 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Basic Function Structure/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32051283" vertical-offset="0" max-vertical-offset="702">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.10683761" vertical-offset="0" max-vertical-offset="702">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
