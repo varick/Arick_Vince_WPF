@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056fd18c-0c09-4b95-ad3e-d1d6c2163cec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html" afterPath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js" afterPath="$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js" />
     </list>
     <ignored path="Arick_Vince_WPF.iws" />
@@ -29,11 +28,9 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10683761" vertical-offset="0" max-vertical-offset="702">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.06410257" vertical-offset="0" max-vertical-offset="702">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -718,11 +715,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4 Screencast/Function Invocation/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10683761" vertical-offset="0" max-vertical-offset="702">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.06410257" vertical-offset="0" max-vertical-offset="702">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
