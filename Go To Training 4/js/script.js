@@ -51,6 +51,6 @@ function randomizer(minNumber,maxNumber){
 //for loop(var; condition to met, increment
 //the loop to run 15 times
 for (var i=0; i<15; i++){
-//print out the random number generated every time runs
+//print
     console.log(randomizer(min,max));
 }
