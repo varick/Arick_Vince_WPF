@@ -5,8 +5,14 @@
  10-20-2014
  */
 
-//circumference = 2 x 3.141 x r
-//this is a function
-function calcArea(width, height){
-    var area = width * height;
+//Find circumference of circle 2 * 3.141 * r
+
+console.log(area)
+
+function calcArea 2, radius, pi(); {
+    var pi = 3.141;
+    var radius = 5;
+    var area = 2 * pi * radius;
     return area;
+}
+
