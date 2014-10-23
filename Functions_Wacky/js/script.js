@@ -10,7 +10,7 @@ var min = alert ("Lets play the lottery 5 balls and 1 mega 1-54!");
 
 var result=randomizer(1,54);
 
-alert ("The winning numbers are " + result)
+alert ("The mega number is " + result)
 
 
 function randomizer(minNumber,maxNumber){
@@ -22,5 +22,5 @@ function randomizer(minNumber,maxNumber){
 
 for (var i=0; i<5; i++) {
 
-    console.log(randomizer(1,54));
+    alert(randomizer(1,54));
 }
