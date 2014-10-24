@@ -5,16 +5,8 @@
  10-23-2014
  */
 
+var budget = prompt("How much would you like to spend for Christmas?");
 
-//We want to fit x amount of images with y images on a 960 width
-alert ("What size images do you need to evenly fit 960 width?");
+var family = prompt("How many family and friends would you like to give presents?");
 
-var images = prompt ("How many images do you want to fit into your call to action?");
-
-var padding = prompt ("What size padding would you like in between images?");
-
-var width = prompt ("What's the width of the call to action banner?");
-
-var subImages = (width / images);
-
-console.log subImages
+var equalAmount = alert ("Equal amount of money per person is " + (budget / family) + " dollars.");
